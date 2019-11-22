@@ -15,7 +15,7 @@ In ASCII mode, you play by inputting values.
 
 In graphical mode, you play by clicking the cells. There is also two buttons to save or quit.
 
-#Compilation
+# Compilation
 
 This game uses the MLV graphical library. It is pretty old and not up to date for Windows and MacOS.
 I provided a compiled program runnable on Debian.
